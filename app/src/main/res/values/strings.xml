@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lavender Proximity Fix</string>
+    <string name="message">Just click OK and reboot.\nProximity sensor should be fixed.\n\nNote: this fix is intended for Pie roms only</string>
+    <string name="button">OK</string>
+</resources>
